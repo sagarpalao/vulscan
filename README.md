@@ -1,13 +1,13 @@
 # VulScan
 
 ## What is VulScan?
-* VulScan is a security auxillary tool which helps in * scanning vulnerabilities in a server.
-* It aims at providing security to server at low * maintenance cost for Commercial and Enterprise level * projects as well as Individual level project.
+* VulScan is a security auxillary tool which helps in scanning vulnerabilities in a server.
+* It aims at providing security to server at low maintenance cost for Commercial and Enterprise level projects as well as Individual level project.
 
 <hr/>
 
 ## Working of VulScan
-* For VulScan to work, needs to be installed on the * particular server
+* For VulScan to work, needs to be installed on the particular server
 * VulScan works on monitoring and providing information about the vulnerabilities of the Server.
 
 <hr/>
@@ -16,7 +16,7 @@
 
 ### Level 1
 * In Level 1, we focus on System tempering.
-* In system tempering we look for basic network * configuration files in the system. VulScan application * tries to look for this tempering based on the template * file which has been provided to it by the administrator.
+* In system tempering we look for basic network configuration files in the system. VulScan application tries to look for this tempering based on the template file which has been provided to it by the administrator.
 * Based on this, we measure the level of tempering in the system, based on which thegeneral degree of vulnerability is assigned to the system.
 
 ### Level 2
